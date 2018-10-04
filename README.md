@@ -39,4 +39,5 @@ Run **Search.py** - An infinite loop runs expecting queries that ends with the e
 ### For Queries of -
 
 less than 3 words, time to fetch results is < 1s
+
 between 3 and 7 words, time to fetch results is Around 2-3s
